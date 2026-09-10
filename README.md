@@ -18,8 +18,6 @@ Meridian Financial Services was losing staff and seeing inconsistent performance
 - **Employees aged 31–40 drive the largest share of resignations** (~35%), the group with the most external options and highest flight risk.
 - **Human Resources is a hidden retention risk**: its best-in-company performance score is paired with below-average pay.
 
-Full narrative: [`docs/written-summary.md`](docs/written-summary.md)
-
 ## Process
 
 1. **Data cleaning**: removed 50 duplicate records, standardized missing values, documented data-quality issues.
